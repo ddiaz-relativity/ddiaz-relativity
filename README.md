@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ddiaz-relativity
-- 👀 I’m interested in buikding monitoring systems with golang on kubernetes, 
+- 👀 I’m interested in building monitoring systems with golang on kubernetes, 
 - 🌱 I’m currently learning how to replace our old CI/CD workflows with Github Actions
 - 💞️ I’m looking to collaborate on OpenTelemetry efforts
 - 📫 How to reach me david.diaz@relativity.com
